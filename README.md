@@ -25,6 +25,8 @@ A basic web application that allows users to increment, decrement, and reset a c
 
 ## 📸 Preview
 
+<img width="1920" height="1080" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/3f5d4d29-1f6c-4b05-92ac-f91025d88abe" />
+
 
 
 ## 🤝 Contributing
